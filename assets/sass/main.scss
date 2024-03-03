@@ -1,0 +1,10 @@
+@import "_mixins";
+@import "_vars";
+
+
+
+.site-title {
+  color: $color-red;
+  box-shadow: 10px 5px 5px $color-red;
+  background: $color-red;
+}
